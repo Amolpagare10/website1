@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-👨🏻‍💻 I'm third year UNdergraduate student at the IIT Bombay.
+👨🏻‍💻 I'm third year Undergraduate student at the IIT Bombay.
 
 🔬 My interests are in learning the world of Finance and learning Quantum Computing.
 
